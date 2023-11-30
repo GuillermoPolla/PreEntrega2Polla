@@ -13,7 +13,7 @@
     let ticket = 'Producto     Talle        Precio      Cantidad        Subtotal \n';
 
     // Expresión que solo contiene letras:
-    let regex = /^[a-zA-Z]+$/;
+    let regex = /^[a-zA-Z]+$/;  
 
     nombreUsuario = prompt('Sea bienvenido al carrito de compras de la tienda,\nIngrese su nombre: ');
 
